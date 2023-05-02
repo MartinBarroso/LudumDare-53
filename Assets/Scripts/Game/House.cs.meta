@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ac11950a2552a094e885747560c19177
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - deliverText: {instanceID: 0}
+  - canvas: {instanceID: 0}
+  - successClip: {fileID: 8300000, guid: 0b425f94b3c47d4418e57bc73b5ad70d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
